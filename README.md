@@ -30,7 +30,7 @@ You can access the online demo of MetaScientist at: [https://metascientist-demo.
 
 ## Documentation
 
-For detailed instructions on how to use the MetaScientist demo interface, please refer to our [Wiki page](https://github.com/metascientist/MetaScientist/wiki).
+For detailed instructions on how to use the MetaScientist demo interface, please refer to our [Wiki page](https://github.com/metascientist/MetaScientist/wiki/MetaScientist-User-Documentation).
 
 ## Citation
 
@@ -40,9 +40,15 @@ If you use MetaScientist in your research, please cite our paper:
 @inproceedings{qi2025metascientist,
   title={MetaScientist: A Human-AI Synergistic Framework for Automated Mechanical Metamaterial Design},
   author={Qi, Jingyuan and Jia, Zian and Liu, Minqian and Zhan, Wangzhi and Zhang, Junkai and Wen, Xiaofei and Gan, Jingru and Chen, Jianpeng and Liu, Qin and Ma, Mingyu Derek and Li, Bangzheng and Wang, Haohui and Kulkarni, Adithya and Chen, Muhao and Zhou, Dawei and Li, Ling and Wang, Wei and Huang, Lifu},
-  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)},
-  pages={404--436},
-  year={2025}
+  booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+  month = apr,
+  year = "2025",
+  address = "Albuquerque, New Mexico",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2025.naacl-demo.34/",
+  doi = "10.18653/v1/2025.naacl-demo.34",
+  pages = "404--436",
+  ISBN = "979-8-89176-191-9"
 }
 ```
 
