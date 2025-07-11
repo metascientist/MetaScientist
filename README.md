@@ -4,7 +4,7 @@
 
 ## Overview
 
-![MetaScientist](http://zhoulab-1.cs.vt.edu:5557/) is a human-AI synergistic framework for automated mechanical metamaterial design. This repository contains the demo interface for the MetaScientist system, allowing users to interact with the framework through a web-based application.
+[MetaScientist](http://zhoulab-1.cs.vt.edu:5557/) is a human-AI synergistic framework for automated mechanical metamaterial design. This repository contains the demo interface for the MetaScientist system, allowing users to interact with the framework through a web-based application.
 
 The system accelerates the design of novel metamaterials through two primary phases:
 1. **Hypothesis Generation**: Performs complex reasoning to generate novel and scientifically sound hypotheses, supported by domain-specific foundation models and inductive biases retrieved from existing literature.
